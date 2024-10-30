@@ -3,7 +3,7 @@ Created by: Emre Guzel
 Created on: Oct 24 2020
 This module is a Micro:bit MicroPython program runs the servo and tells the servo decrees
 """
-
+#test
 
 class Servo:
     def __init__(self, pin, freq=50, min_us=600, max_us=2400, angle=180):
